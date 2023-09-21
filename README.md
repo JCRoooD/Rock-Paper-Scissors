@@ -5,7 +5,7 @@
 <h1 align="center"> Rock, Paper, Scissors </h1>
 </h4>
 
-# How to Play
+# How to Play:
 ## Copy the .py file and run it
 ## The program will prompt you with the question Rock, Paper, Scissors
 ## Type your option into the terminal and test your luck!
